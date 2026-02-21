@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Data Analyst  
+# 👋 Hi, I'm Ka Data Analyst  
 
 Welcome to my portfolio! I am a data analyst with experience in transforming raw data into meaningful insights that support business decision-making.
 
@@ -75,4 +75,4 @@ Welcome to my portfolio! I am a data analyst with experience in transforming raw
 ## 📫 Contact
 
 - LinkedIn: *(Add your link here)*  
-- Email: *(Add your email here)*  
+- Email: kehindefalola199@gmail.com  
