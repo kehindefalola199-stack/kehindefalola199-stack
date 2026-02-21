@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ka Data Analyst  
+# 👋 Hi, I'm Data Analyst  
 
 Welcome to my portfolio! I am a data analyst with experience in transforming raw data into meaningful insights that support business decision-making.
 
